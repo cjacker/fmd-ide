@@ -1,7 +1,7 @@
 # FMD IDE and FMD Programmer
 In case somebody may need these, this repo include:
 - FMD IDE v3.0.9e
-- FMD IDE v3.1.0
+- FMD IDE v3.1.0 (the latest version up to now)
 - FMD Programer v5.3.3
 - FMD Programer v5.3.5
 
