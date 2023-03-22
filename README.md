@@ -5,7 +5,11 @@ In case somebody may need these, this repo include:
 - FMD Programer v5.3.3
 - FMD Programer v5.3.5
 
-# programmer hardware
+# Something you should know
+1. FMD MCUs is actually a very old PIC clone, do not waste too much time on it.
+2. It's no doubt no matter hardware or software has legal issues.
+
+# programmer/emulator hardware
 There are mainly 3 type programmer available:
 
 1. USB B port with black board.
