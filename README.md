@@ -6,8 +6,9 @@ In case somebody may need these, this repo include:
 - FMD Programer v5.3.5
 
 # Something you should know
-1. FMD MCUs is actually a very old PIC clone, do not waste too much time on it.
+1. FMD MCUs are actually a very old PIC clones, do not waste too much time on it.
 2. It's no doubt no matter hardware or software has legal issues.
+3. If you are really interest in low cost MCUs, please consider CH32V003 or Padauk.
 
 # programmer/emulator hardware
 There are mainly 3 type programmer available:
